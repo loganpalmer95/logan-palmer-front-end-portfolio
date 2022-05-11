@@ -7,34 +7,22 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Grocery aisle',
-      category: 'commercial',
+      name: 'Run Buddy',
+      category: 'work',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'An application where a user can locate a fitness instructor for one on one mentoring. GitHib Repo: https://github.com/loganpalmer95/run-buddy. See deployed app here: https://loganpalmer95.github.io/run-buddy/.'
     },
     {
-      name: 'Grocery booth',
-      category: 'commercial',
+      name: 'Open Source Kanban',
+      category: 'work',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        "This is a web app that allows developers bring new thoughts and ideas to the world. You are able to log in and register and then post content, delete content, reply to someone else's post and then edit or delete those responses. GitHub Repo: https://github.com/AdrianHenry15/Open-Source-Kanban. See deployed app here: https://oskdb.herokuapp.com/" 
     },
     {
-      name: 'Building exterior',
-      category: 'commercial',
+      name: 'Food Finder',
+      category: 'work',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Restaurant table',
-      category: 'commercial',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Cafe interior',
-      category: 'commercial',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        "This is a web app that allows users to enter a city name and show them the Google Weather API and local restaurants within a 5 mile radius. GitHub Repo: https://github.com/loganpalmer95/group-project. See deployed web app here: https://loganpalmer95.github.io/group-project/"
     },
     {
       name: 'Cat green eyes',
@@ -60,66 +48,6 @@ const PhotoList = ({ category }) => {
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
     },
-    {
-      name: 'Pancakes',
-      category: 'food',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Burrito',
-      category: 'food',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Scallop pasta',
-      category: 'food',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Burger',
-      category: 'food',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Fruit bowl',
-      category: 'food',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Green river',
-      category: 'landscape',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Docks',
-      category: 'landscape',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Panoramic village by sea',
-      category: 'landscape',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Domestic landscape',
-      category: 'landscape',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    },
-    {
-      name: 'Park bench',
-      category: 'landscape',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-    }
   ]);
 
   const currentPhotos = photos.filter(photo => photo.category === category);
