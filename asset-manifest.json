@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/logan-palmer-front-end-portfolio/static/css/main.767785e7.chunk.css",
+    "main.js": "/logan-palmer-front-end-portfolio/static/js/main.e95ef7d1.chunk.js",
+    "main.js.map": "/logan-palmer-front-end-portfolio/static/js/main.e95ef7d1.chunk.js.map",
+    "runtime-main.js": "/logan-palmer-front-end-portfolio/static/js/runtime-main.751852d1.js",
+    "runtime-main.js.map": "/logan-palmer-front-end-portfolio/static/js/runtime-main.751852d1.js.map",
+    "static/js/2.9f927e1a.chunk.js": "/logan-palmer-front-end-portfolio/static/js/2.9f927e1a.chunk.js",
+    "static/js/2.9f927e1a.chunk.js.map": "/logan-palmer-front-end-portfolio/static/js/2.9f927e1a.chunk.js.map",
+    "static/js/3.30952d89.chunk.js": "/logan-palmer-front-end-portfolio/static/js/3.30952d89.chunk.js",
+    "static/js/3.30952d89.chunk.js.map": "/logan-palmer-front-end-portfolio/static/js/3.30952d89.chunk.js.map",
+    "index.html": "/logan-palmer-front-end-portfolio/index.html",
+    "static/css/main.767785e7.chunk.css.map": "/logan-palmer-front-end-portfolio/static/css/main.767785e7.chunk.css.map",
+    "static/js/2.9f927e1a.chunk.js.LICENSE.txt": "/logan-palmer-front-end-portfolio/static/js/2.9f927e1a.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/logan-palmer-front-end-portfolio/static/media/0.d387e085.jpg",
+    "static/media/1.jpg": "/logan-palmer-front-end-portfolio/static/media/1.f349d6db.jpg",
+    "static/media/2.jpg": "/logan-palmer-front-end-portfolio/static/media/2.1ca4ae87.jpg",
+    "static/media/cover-image.b391b80c.jpg": "/logan-palmer-front-end-portfolio/static/media/cover-image.b391b80c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.751852d1.js",
+    "static/js/2.9f927e1a.chunk.js",
+    "static/css/main.767785e7.chunk.css",
+    "static/js/main.e95ef7d1.chunk.js"
+  ]
+}
