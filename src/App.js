@@ -10,8 +10,8 @@ function App() {
       name: 'work',
       description: "Screenshots and links to previous projects I've worked on",
     },
-    { name: 'portraits', 
-    description: 'Portraits of people in my life' },
+    { name: 'links', 
+    description: 'Links to my LinkedIn and GitHub' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
