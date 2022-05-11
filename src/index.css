@@ -200,6 +200,9 @@ textarea {
 .my-2 {
   margin-top: var(--spacing-two);
   margin-bottom: var(--spacing-two);
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 50%;
 }
 
 .my-5 {
