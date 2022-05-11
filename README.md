@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Logan Palmer's React Portfolio
 
 ## Links
@@ -8,5 +9,6 @@
 
 ## Video
 # https://drive.google.com/file/d/1ym2D6Mhe4lp66doY_QX_LwObVih6FPyA/view
+
 
 
