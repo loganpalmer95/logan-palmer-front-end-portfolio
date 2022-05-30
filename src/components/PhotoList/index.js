@@ -22,6 +22,11 @@ const PhotoList = ({ category }) => {
       description: "This is a web app that allows users to enter a city name and show them the Google Weather API and local restaurants within a 5 mile radius. GitHub Repo: https://github.com/loganpalmer95/group-project. See deployed web app here: https://loganpalmer95.github.io/group-project/"
     },
     {
+      name: "BookSpace",
+      category: "work",
+      description: "An open-source book club for the modern age. This app allows users to login or signup and talk with other users about books they have read and ones they want to read. GitHub Repo: https://github.com/LF56/BookSpace. See deployed web app here: https://book-space-app.herokuapp.com/signup"
+    },
+    {
       name: "LinkedIn",
       category: "links",
       description: "Find my LinkedIn profile here: https://www.linkedin.com/in/loganpalmer95/."
