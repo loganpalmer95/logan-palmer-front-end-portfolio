@@ -3,7 +3,7 @@
 
 ## Links
 # GitHub Repo: https://github.com/loganpalmer95/logan-palmer-front-end-portfolio
-# Deployed App: https://loganpalmer95.github.io/logan-palmer-front-end-portfolio/
+# Deployed App: https://react-portfolio-lp95.herokuapp.com/ 
 
 ## A SPA (Single Page Application) built using React.
 
